@@ -63,7 +63,7 @@ class NavBar extends Component {
     render() {
     return(
         <Body>
-        <Home><Link href="index.js">Home</Link></Home>
+        <Home><Link href="index.js">HOME</Link></Home>
         <NavSpacing>
         <Items><Link href="projects.js">Projects</Link></Items>
         <Items><Link href="experience.js">Experience</Link></Items>
