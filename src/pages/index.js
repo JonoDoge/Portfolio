@@ -1,19 +1,15 @@
 import React from "react"
 import styled from "styled-components"
+import NavBar from "./components/navbar"
 
 const Body = styled.body`
-    margin:20px 20px 20px 20px;
-    background-color:red;
+    background-color:#a1d1c8;
+    min-height:100vh;
 
-`;
-
-const body = styled.body`
-    background-color:red;
 `;
 
 export default () => 
-<body>
+
 <Body>
-asd
+    <NavBar/>
 </Body>
-</body>
