@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-import NavBar from "./components/navbar"
+import NavBar from "../components/navbar"
 
 const Body = styled.body`
     background-color:#a1d1c8;
